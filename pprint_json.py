@@ -2,7 +2,7 @@ import json
 
 
 def load_data(filepath):
-    pass
+    f = open(
 
 
 def pretty_print_json(data):
